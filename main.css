@@ -1,0 +1,66 @@
+.container{
+    border: 1px solid white;
+    margin: 50px;
+}
+.rasm{
+    position: relative;
+    right: 600px;
+    bottom: 70px;
+}
+.text{
+    position: relative;
+    left: 350px;
+    bottom: 186px;
+
+}
+.btn-success{
+    margin: 3px;
+}
+.btn-primary{
+    margin: 3px;
+}
+.btn-disabled4{
+    border-color: #71dd8a;
+    background-color: white;
+    color: #000;
+}
+.btn-disabled3{
+    border-color: #999999;
+    background-color: white;
+    color: black;
+}
+.btn-disabled1{
+    border-color: #e9e2e2;
+    background-color: #eeecec;
+    color: gainsboro;
+}
+.btn-disabled2{
+    border-color: #d7d5d5;
+    background-color: white;
+    color: gainsboro;
+}
+.www{
+    position: relative;
+    bottom: 180px;
+}
+.btn-disabled0{
+    border-color: #999999;
+    background-color: white;color: black;
+}
+.btn-disabled00{
+    border-color: mediumspringgreen;
+    background-color: white;color: black;
+}
+.btn-disabledrr{
+    border-color: indianred;
+    background-color: white;
+    color: black;
+}
+.block{
+    position: relative;
+    bottom: 170px;
+}
+.blockk{
+    position: relative;
+    bottom: 160px;
+}
